@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1058692472218",
+    "project_id": "xucasalonapp-da8aa",
+    "storage_bucket": "xucasalonapp-da8aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058692472218:android:d737e3174f0c3cec7cee23",
+        "android_client_info": {
+          "package_name": "com.example.xucasalonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058692472218-mb9ov37ocad4q3ag9r79jagpsbe8t2te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xucasalonapp",
+            "certificate_hash": "8fa1eb0cd4cf0abd0926c8b4b3bcd3b40431f531"
+          }
+        },
+        {
+          "client_id": "1058692472218-8oguu416dtd0ksumlfnq87higp35ns9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWN-3Go_EWbHaWfjHEMqPHn8BT1vzEnRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058692472218-8oguu416dtd0ksumlfnq87higp35ns9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

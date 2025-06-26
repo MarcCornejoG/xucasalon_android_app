@@ -9,7 +9,7 @@ Catálogo de productos: los usuarios pueden explorar los productos disponibles d
 
 Sistema de búsqueda avanzado: permite encontrar productos fácilmente mediante filtros y categorías.
 
-Opción de pago integrada: los clientes podrán pagar sus pedidos directamente desde la aplicación.
+Opción de pago integrada: los clientes podrán pagar sus pedidos directamente desde la aplicación (no implementado).
 
 Inicio de sesión con Google: se está trabajando en ofrecer autenticación mediante cuenta de Google.
 
